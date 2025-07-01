@@ -4,3 +4,11 @@
 ###Check server status
 
 GET {{rootUrl}}
+
+
+
+###Auth Api  
+
+####Post new user
+
+POST {{rootUrl}}/api/v1/auth/register
